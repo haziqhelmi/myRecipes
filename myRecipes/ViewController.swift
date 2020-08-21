@@ -7,8 +7,7 @@
 //
 
 import UIKit
-import SwiftyXMLParser
-import Alamofire
+import SwiftyXML
 
 struct Recipes: Codable {
     let name: String
@@ -21,17 +20,6 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        guard let urlPath = Bundle.main.path(forResource: "recipes", ofType: "xml") else { return }
-        let url = NSURL.fileURL(withPath: urlPath)
-        
-        Alamofire.request(url).responseData {
-            response in
-            if let data = response.data {
-                let xml = XML.parse(data)
-                print(xml.RecipeSet.Entree.Recipe[0].Title.text!)
-            }
-        }
         // Do any additional setup after loading the view.
     }
 
