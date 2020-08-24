@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecipeSet>
+	
+	<Recipe>
+		<Type>Starter</Type>
+        <Title>Crabcake</Title>
+        <Ingredients>Item 1. Item 2. Item 3.</Ingredients>
+        <Steps>Step 1. Step 2. Step 3.</Steps>
+    </Recipe>
+    
+	<Recipe>
+		<Type>Starter</Type>
+        <Title>Shrimp Cocktail</Title>
+        <Ingredients>Item 1. Item 2. Item 3.</Ingredients>
+        <Steps>Step 1. Step 2. Step 3.</Steps>
+    </Recipe>
+    
+		<Recipe>
+		<Type>Entree</Type>
+		<Title>Beef Lasagna</Title>
+		<Ingredients>Item 1. Item 2. Item 3.</Ingredients>
+		<Steps>Step 1. Step 2. Step 3.</Steps>
+	</Recipe>
+		
+	<Recipe>
+		<Type>Entree</Type>
+		<Title>Chicken Parm</Title>
+		<Ingredients>Item 1. Item 2. Item 3.</Ingredients>
+		<Steps>Step 1. Step 2. Step 3.</Steps>
+	</Recipe>
+	
+    <Recipe>
+		<Type>Dessert</Type>
+        <Title>New York Cheesecake</Title>
+        <Ingredients>Item 1. Item 2. Item 3.</Ingredients>
+        <Steps>Step 1. Step 2. Step 3.</Steps>
+    </Recipe>
+		
+    <Recipe>
+		<Type>Dessert</Type>
+        <Title>Creme Caramel</Title>
+        <Ingredients>Item 1. Item 2. Item 3.</Ingredients>
+        <Steps>Step 1. Step 2. Step 3.</Steps>
+    </Recipe>
+	
+</RecipeSet>
