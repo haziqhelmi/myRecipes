@@ -12,6 +12,7 @@
 		66291BFC24EF9BCC00105A94 /* recipetypes.xml in Resources */ = {isa = PBXBuildFile; fileRef = 66291BFB24EF9BCC00105A94 /* recipetypes.xml */; };
 		66291BFE24EFDEE300105A94 /* XMLParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66291BFD24EFDEE300105A94 /* XMLParser.swift */; };
 		66291C0024EFE03800105A94 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66291BFF24EFE03800105A94 /* TableViewController.swift */; };
+		664754FD251C89CB008FB913 /* SelectedCellViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 664754FC251C89CB008FB913 /* SelectedCellViewController.swift */; };
 		667B14BD24F397EE00054BA0 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667B14BC24F397EE00054BA0 /* TableViewCell.swift */; };
 		66B24F8A24EE7526002F6BDE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B24F8924EE7526002F6BDE /* AppDelegate.swift */; };
 		66B24F8F24EE7526002F6BDE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66B24F8D24EE7526002F6BDE /* Main.storyboard */; };
@@ -24,6 +25,7 @@
 		66291BFB24EF9BCC00105A94 /* recipetypes.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = recipetypes.xml; sourceTree = "<group>"; };
 		66291BFD24EFDEE300105A94 /* XMLParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XMLParser.swift; sourceTree = "<group>"; };
 		66291BFF24EFE03800105A94 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		664754FC251C89CB008FB913 /* SelectedCellViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SelectedCellViewController.swift; path = "/Users/Haziq/Desktop/Xcode Projects/myRecipes/myRecipes/SelectedCellViewController.swift"; sourceTree = "<absolute>"; };
 		667B14BC24F397EE00054BA0 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		66B24F8624EE7526002F6BDE /* myRecipes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myRecipes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		66B24F8924EE7526002F6BDE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -72,13 +74,14 @@
 			children = (
 				66B24F8924EE7526002F6BDE /* AppDelegate.swift */,
 				66291BFD24EFDEE300105A94 /* XMLParser.swift */,
+				664754FC251C89CB008FB913 /* SelectedCellViewController.swift */,
 				667B14BC24F397EE00054BA0 /* TableViewCell.swift */,
 				66291BFF24EFE03800105A94 /* TableViewController.swift */,
 				66B24F8D24EE7526002F6BDE /* Main.storyboard */,
-				66B24F9024EE7527002F6BDE /* Assets.xcassets */,
 				66B24F9224EE7527002F6BDE /* LaunchScreen.storyboard */,
 				66B24F9524EE7527002F6BDE /* Info.plist */,
 				66291BFB24EF9BCC00105A94 /* recipetypes.xml */,
+				66B24F9024EE7527002F6BDE /* Assets.xcassets */,
 			);
 			path = myRecipes;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				66B24F8A24EE7526002F6BDE /* AppDelegate.swift in Sources */,
+				664754FD251C89CB008FB913 /* SelectedCellViewController.swift in Sources */,
 				667B14BD24F397EE00054BA0 /* TableViewCell.swift in Sources */,
 				66291BFE24EFDEE300105A94 /* XMLParser.swift in Sources */,
 				66291C0024EFE03800105A94 /* TableViewController.swift in Sources */,

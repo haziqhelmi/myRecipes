@@ -17,6 +17,8 @@ class TableViewController: UITableViewController {
         super.viewDidLoad()
         
         fetchData()
+        tableView.delegate = self
+        tableView.dataSource = self
     }
     
     private func fetchData() {
@@ -31,6 +33,18 @@ class TableViewController: UITableViewController {
             OperationQueue.main.addOperation {
                 self.tableView.reloadSections(IndexSet(integer: 0), with: .left)
             }
+        }
+    }
+    
+//    override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+//        tableView.deselectRow(at: indexPath, animated: true)
+//        performSegue(withIdentifier: "showRecipe", sender: self)
+////        let selectedRecipe = self.recipeItem?[indexPath.row]
+//    }
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if let destination = segue.destination as? SelectedCellViewController, let index = tableView.indexPathsForSelectedRows?.first {
+            destination.selectedRecipe = recipeItem?[index.row]
         }
     }
     
@@ -50,7 +64,7 @@ class TableViewController: UITableViewController {
         if let recipe = recipeItem?[indexPath.item] {
             cell.recipe = recipe
         }
-        
+
         return cell
     }
 }
