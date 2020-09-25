@@ -4,43 +4,234 @@
 	<Recipe>
 		<Type>Starter</Type>
         <Title>Crabcake</Title>
-        <Ingredients>Item 1. Item 2. Item 3.</Ingredients>
-        <Steps>Step 1. Step 2. Step 3.</Steps>
+        <Ingredients>
+- 1/3 c. mayonnaise
+- 1 large egg, beaten
+- 2 tbsp. Dijon mustard
+- 2 tsp. Worcestershire sauce
+- 1/2 tsp. hot sauce
+- Kosher salt
+- Freshly ground black pepper
+- 1 lb. jumbo lump crabmeat, picked over for shells
+- 3/4 c. panko bread crumbs (or saltines)
+- 2 tbsp. Freshly Chopped Parsley
+- Canola oil, for frying
+- Lemon wedges, for serving
+- Tartar sauce, for serving
+        </Ingredients>
+        <Steps>
+1) In a small bowl, whisk together mayo, egg, Dijon mustard, Worcestershire, and hot sauce, and season with salt and pepper.
+
+2) In a medium bowl, stir together crabmeat, panko, and parsley. Fold in mayo mixture, then form into 8 patties.
+
+3) In a large skillet over medium-high heat, coat pan with oil and heat until shimmering. Add crab cakes and cook, in batches, until golden and crispy, 3 to 5 minutes per side.
+
+4) Serve with lemon and tartar sauce.
+        </Steps>
     </Recipe>
     
 	<Recipe>
 		<Type>Starter</Type>
         <Title>Shrimp Cocktail</Title>
-        <Ingredients>Item 1. Item 2. Item 3.</Ingredients>
-        <Steps>Step 1. Step 2. Step 3.</Steps>
+        <Ingredients>
+Court Bouillon:
+- 10 cups cold water
+- 2 medium carrots, quartered
+- 2 stalks celery, quartered
+- 1 large onion, quartered
+- 1 head garlic, halved
+- 1 lemon, halved
+- 1/2 bunch parsley
+- 5 sprigs fresh thyme
+- 2 bay leaves
+  
+Shrimp:
+- 1 pound medium or large shrimp, in the shell, rinsed
+- 1 tablespoon kosher salt
+- Cocktail Sauce, recipe follows
+- Lemon wedges
+
+Cocktail Sauce:
+- 1 cup ketchup
+- 1 lemon, zest finely grated and juiced
+- 4 teaspoons prepared horseradish, or to taste, drained
+- 1/4 teaspoon Worcestershire sauce
+- Hot sauce, to taste
+        </Ingredients>
+        <Steps>
+1) Put the water, carrot, celery, onion, garlic, lemon, parsley, thyme, and bay leaves in a pot and bring to a boil over high heat. Lower the heat to a simmer, set a cover on top slightly ajar, and cook for 10 to 30 minutes.
+
+2) Drop the shrimp into the liquid and turn off the heat. Cook the shrimp, stirring occasionally, until they curl and turn pink, about 2 to 2 1/2 minutes for medium shrimp, 3 minutes for large ones. Drain and cool to room temperature. Peel the shrimp and remove the vein along the curve of the shrimp, if desired. Refrigerate if not serving right away. If refrigerated, bring the shrimp to room temperature 20 minutes before serving.
+
+3) To serve put the cocktail sauce in a medium bowl and surround with the shrimp, or loop the shrimp over the edge of an individual cocktail glass and top with the sauce. Garnish with the lemon and serve.
+
+4) Optional Tip: To de-vein the shrimp before cooking, hold a shrimp between the thumb and forefinger with the rounded side of the shrimp upward. Place the pointed end of a wooden skewer at the junction of the second and third segments of the shrimp shell, about 1/8-inch down from the top. Gently push the skewer through the shell and then lift up to remove the vein.
+
+Cocktail Sauce:
+1) Combine the ketchup, lemon zest and juice, horseradish, and Worcestershire sauce in a small bowl. Add hot sauce, if desired. Mix well, then refrigerate until ready to serve.
+
+2) Yield: 1 1/2 cups
+        </Steps>
     </Recipe>
     
     <Recipe>
 		<Type>Entree</Type>
 		<Title>Beef Lasagna</Title>
-		<Ingredients>Item 1. Item 2. Item 3.</Ingredients>
-		<Steps>Step 1. Step 2. Step 3.</Steps>
+		<Ingredients>
+- 1 pound sweet Italian sausage
+- ¾ pound lean ground beef
+- ½ cup minced onion
+- 2 cloves garlic, crushed
+- 1 (28 ounce) can crushed tomatoes
+- 2 (6 ounce) cans tomato paste
+- 2 (6.5 ounce) cans canned tomato sauce
+- ½ cup water
+- 2 tablespoons white sugar
+- 1 ½ teaspoons dried basil leaves
+- ½ teaspoon fennel seeds
+- 1 teaspoon Italian seasoning
+- 1 ½ teaspoons salt, divided, or to taste
+- ¼ teaspoon ground black pepper
+- 4 tablespoons chopped fresh parsley
+- 12 noodles lasagna noodles
+- 16 ounces ricotta cheese
+- 1 egg
+- ¾ pound mozzarella cheese, sliced
+- ¾ cup grated Parmesan cheese
+        </Ingredients>
+		<Steps>
+1) In a Dutch oven, cook sausage, ground beef, onion, and garlic over medium heat until well browned. Stir in crushed tomatoes, tomato paste, tomato sauce, and water. Season with sugar, basil, fennel seeds, Italian seasoning, 1 teaspoon salt, pepper, and 2 tablespoons parsley. Simmer, covered, for about 1 1/2 hours, stirring occasionally.
+
+2) Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water. In a mixing bowl, combine ricotta cheese with egg, remaining parsley, and 1/2 teaspoon salt.
+
+3) Preheat oven to 375 degrees F (190 degrees C).
+
+4) To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13 inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with one half of the ricotta cheese mixture. Top with a third of mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray, or make sure the foil does not touch the cheese.
+
+5) Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 minutes. Cool for 15 minutes before serving.
+        </Steps>
 	</Recipe>
 		
 	<Recipe>
 		<Type>Entree</Type>
 		<Title>Chicken Parm</Title>
-		<Ingredients>Item 1. Item 2. Item 3.</Ingredients>
-		<Steps>Step 1. Step 2. Step 3.</Steps>
+		<Ingredients>
+- 4 eaches skinless, boneless chicken breast halves
+- salt and freshly ground black pepper to taste
+- 2 large eggs eggs
+- 1 cup panko bread crumbs, or more as needed
+- ½ cup grated Parmesan cheese
+- 2 tablespoons all-purpose flour, or more if needed
+- 1 cup olive oil for frying
+- ½ cup prepared tomato sauce
+- ¼ cup fresh mozzarella, cut into small cubes
+- ¼ cup chopped fresh basil
+- ½ cup grated provolone cheese
+- ¼ cup grated Parmesan cheese
+- 1 tablespoon olive oil
+        </Ingredients>
+		<Steps>
+1) Preheat an oven to 450 degrees F (230 degrees C).
+
+2) Place chicken breasts between two sheets of heavy plastic (resealable freezer bags work well) on a solid, level surface. Firmly pound chicken with the smooth side of a meat mallet to a thickness of 1/2-inch. Season chicken thoroughly with salt and pepper.
+
+3) Beat eggs in a shallow bowl and set aside.
+
+4) Mix bread crumbs and 1/2 cup Parmesan cheese in a separate bowl, set aside.
+
+5) Place flour in a sifter or strainer; sprinkle over chicken breasts, evenly coating both sides.
+
+6) Dip flour coated chicken breast in beaten eggs. Transfer breast to breadcrumb mixture, pressing the crumbs into both sides. Repeat for each breast. Set aside breaded chicken breasts for about 15 minutes.
+
+7) Heat 1 cup olive oil in a large skillet on medium-high heat until it begins to shimmer. Cook chicken until golden, about 2 minutes on each side. The chicken will finish cooking in the oven.
+
+8) Place chicken in a baking dish and top each breast with about 1/3 cup of tomato sauce. Layer each chicken breast with equal amounts of mozzarella cheese, fresh basil, and provolone cheese. Sprinkle 1 to 2 tablespoons of Parmesan cheese on top and drizzle with 1 tablespoon olive oil.
+
+9) Bake in the preheated oven until cheese is browned and bubbly, and chicken breasts are no longer pink in the center, 15 to 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).
+        </Steps>
 	</Recipe>
 	
     <Recipe>
 		<Type>Dessert</Type>
         <Title>New York Cheesecake</Title>
-        <Ingredients>Item 1. Item 2. Item 3.</Ingredients>
-        <Steps>Step 1. Step 2. Step 3.</Steps>
+        <Ingredients>
+For the crust:
+- 85g butter, plus extra for tin
+- 140g digestive biscuits, made into fine crumbs (add 2 extra biscuits if you like a thicker base)
+- 1 tbsp sugar, granulated or golden caster
+
+For the cheesecake filling:
+- 900g Philadelphia cheese, or other full-fat soft cheese
+- 250g golden caster sugar
+- 3 tbsp plain flour
+- 1 ½ tsp vanilla extract
+- finely grated zest of 1 lemon (about 2 tsp)
+- 1 ½ tsp lemon juice
+- 3 large eggs, plus 1 yolk
+- 284ml carton soured cream
+
+For the soured cream topping:
+- 142ml carton soured cream
+- 1 tbsp golden caster sugar
+- 2 tsp lemon juice
+        </Ingredients>
+        <Steps>
+1) Position an oven shelf in the middle of the oven. Heat the oven to 180C/ 160C fan/ gas 4.
+
+2) Line the base of a 23cm springform cake tin by putting a square piece of parchment paper or foil on top of the tin base and then clipping the side on so the paper or foil is trapped and any excess sticks out of the bottom.
+
+3) For the crust, melt 85g butter in a medium pan. Stir in 140g digestive biscuit crumbs and 1 tbsp golden caster or granulated sugar so the mixture is evenly moistened.
+
+4) Press the mixture into the bottom of the pan and bake for 10 minutes. Cool on a wire rack while preparing the filling.
+
+5) For the filling, increase the oven temperature to fan 220C/ 200C fan/ gas 7. In a table top mixer fitted with the paddle attachment, beat 900g full-fat soft cheese at medium-low speed until creamy, about 2 minutes.
+
+6) With the mixer on low, gradually add 250g golden caster sugar, then 3 tbsp plain flour and a pinch of salt, scraping down the sides of the bowl and the paddle twice.
+
+7) Swap the paddle attachment for the whisk. Continue by adding 1½ tsp vanilla extract, 2 tsp lemon zest and 1½ tsp lemon juice. Whisk in 3 large eggs and 1 yolk, one at a time, scraping the bowl and whisk at least twice.
+
+8) Stir a 284ml carton of soured cream until smooth, then measure 200ml (just over ¾ of the carton). Continue on low speed as you add the measured soured cream (reserve the rest). Whisk to blend, but don't over-beat. The batter should be smooth, light and somewhat airy.
+
+9) Brush the sides of the springform tin with melted butter and put on a baking sheet. Pour in the filling - if there are any lumps, sink them using a knife - the top should be as smooth as possible. Bake for 10 minutes.
+
+10) Reduce oven temperature to 110C/ 90C fan/ gas ¼ and bake for 45 minutes more. If you gently shake the tin, the filling should have a slight wobble.
+
+11) Turn off the oven and open the oven door for a cheesecake that's creamy in the centre, or leave it closed if you prefer a drier texture. Let cool in the oven for 2 hours. The cheesecake may get a slight crack on top as it cools.
+
+12) Combine the reserved soured cream with a 142ml carton soured cream, 1 tbsp golden caster sugar and 2 tsp lemon juice for the topping. Spread over the cheesecake right to the edges. Cover loosely with foil and refrigerate for at least 8 hours or overnight.
+
+13) Run a round-bladed knife around the sides of the tin to loosen any stuck edges. Unlock the side, slide the cheesecake off the bottom of the tin onto a plate, then slide the parchment paper out from underneath.
+        </Steps>
     </Recipe>
 		
     <Recipe>
 		<Type>Dessert</Type>
         <Title>Creme Caramel</Title>
-        <Ingredients>Item 1. Item 2. Item 3.</Ingredients>
-        <Steps>Step 1. Step 2. Step 3.</Steps>
+        <Ingredients>
+Caramel:
+-1/2 cup (125 ml) sugar
+-2 tablespoons (30 ml) water
+
+Flan:
+- 1/4 cup (60 ml) sugar
+- 2 teaspoons (10 ml) vanilla extract
+- 2 cups (500 ml) milk, hot
+- 3 eggs, lightly beaten
+        </Ingredients>
+        <Steps>
+1) Preheat the oven to 180 °C (350 °F).
+
+Caramel:
+2) In a saucepan, cook the sugar and water until it is a dark golden brown (mahogany). Divide among six 125 ml (1 / 2 cup) capacity ramekins. Allow to cool.
+
+Flan
+
+3) Add the sugar and vanilla extract to the hot milk. Stir until the sugar has dissolved. In a bowl, beat the eggs. Whisk in the hot liquid. Pour into the ramekins.
+
+4) Prepare a water bath by laying a towel in the bottom of large baking dish. Place the ramekins in the dish and fill halfway up with simmering water. Bake for about 40 minutes. The water should never boil.
+
+5) Remove from the oven and water. Cool. Refrigerate. Run the blade of a knife around the ramekins, invert and serve very cold.
+        </Steps>
     </Recipe>
 	
 </RecipeSet>

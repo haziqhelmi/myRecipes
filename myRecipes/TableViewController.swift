@@ -11,6 +11,8 @@ import UIKit
 
 class TableViewController: UITableViewController {
     
+    @IBOutlet weak var tableRecipes: UITableView!
+    
     private var recipeItem: [RecipeItem]?
     
     override func viewDidLoad() {
@@ -36,15 +38,14 @@ class TableViewController: UITableViewController {
         }
     }
     
-//    override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-//        tableView.deselectRow(at: indexPath, animated: true)
-//        performSegue(withIdentifier: "showRecipe", sender: self)
-////        let selectedRecipe = self.recipeItem?[indexPath.row]
-//    }
+    override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        performSegue(withIdentifier: "showRecipe", sender: self)
+    }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        if let destination = segue.destination as? SelectedCellViewController, let index = tableView.indexPathsForSelectedRows?.first {
-            destination.selectedRecipe = recipeItem?[index.row]
+        if let destination = segue.destination as? SelectedCellViewController {
+            destination.selectedRecipe = recipeItem?[(tableRecipes.indexPathForSelectedRow?.row)!]
+            tableRecipes.deselectRow(at: tableRecipes.indexPathForSelectedRow!, animated: true)
         }
     }
     

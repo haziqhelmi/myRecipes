@@ -7,7 +7,7 @@
 //
 
 import Foundation
-// import SwiftyXML
+import SwiftyXML
 
 struct RecipeItem {
     var type: String
@@ -44,6 +44,7 @@ class RecipeParser: NSObject, XMLParserDelegate {
         
         task.resume()
     }
+    
     
     func parser(_ parser: XMLParser, didStartElement elementName: String, namespaceURI: String?, qualifiedName qName: String?, attributes attributeDict: [String : String] = [:]) {
         currentElement = elementName
