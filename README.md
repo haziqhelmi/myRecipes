@@ -3,15 +3,8 @@ A practical test for the iOS Application Developer position. Provided by [Fourti
 
 ---
 
-## Commits
-* 21 Aug 20:
+## Version
 
-Initial commit
+20/8/20 - 24/8/20: Version 1.0
 
-Installed CocoaPods (SwiftyXMLParser & Alamofire). 
-
-Create XML file.
-
-* 22 Aug 20:
-
-Uninstalled SwiftyXMLParse & Alamofire. Installed new Pod (SwiftyXML).
+24/9/20 - 25/9/20: Version 1.1
